@@ -1,6 +1,5 @@
 ![badge for tests]
-(https://github.com/OmanTgl/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.
-svg)
+(https://github.com/OmanTgl/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg)
 
 # learn-cicd-typescript-starter (Notely)
 
